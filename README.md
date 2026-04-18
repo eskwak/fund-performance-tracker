@@ -1,4 +1,4 @@
-# Fund Report Generator
+# Shared Fund Performance Tracker
 
 ## Overview
 

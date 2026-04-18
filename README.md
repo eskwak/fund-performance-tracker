@@ -1,9 +1,5 @@
 # Fund Report Generator
 
-A lightweight Python tool for tracking daily fund performance without needing to run the investment engine.
-
----
-
 ## Overview
 
 We developed an investment engine that aims to beat the broader market using quantitative momentum strategies.

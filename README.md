@@ -3,7 +3,9 @@
 <!-- TRACKER:BEGIN -->
 ## Performance
 
-**AUM:** $101,893.39 &nbsp; · &nbsp; **Since last rebalance:** $\color{red}-0.01\%$ &nbsp; · &nbsp; **Since inception:** $\color{green}+21.63\%$
+| AUM | Since last rebalance | Since inception | Last updated |
+| --- | --- | --- | --- |
+| $101,893.39 | $\color{red}-0.01\%$ | $\color{green}+21.63\%$ | 2026-04-19 17:29 UTC |
 <!-- TRACKER:END -->
 
 ## Overview

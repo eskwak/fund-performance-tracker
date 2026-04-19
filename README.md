@@ -1,5 +1,7 @@
 # Investment Fund Performance Tracker
 
+**Inception Date: 2025-07-15**
+**AUM At Inception: $100000.00**
 <!-- TRACKER:BEGIN -->
 ## Performance
 
@@ -34,5 +36,6 @@ This tracker aims to provide daily updates on the fund's performance without the
 The tracker updates holdings automatically as the market moves and the engine rebalances the fund.
 
 **The fund's holdings will be shared. The fund's rebalancing strategy and implementation will not.**
+
 
 

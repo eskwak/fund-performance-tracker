@@ -5,7 +5,22 @@
 
 | AUM | Since last rebalance | Since inception | Last updated |
 | --- | --- | --- | --- |
-| $156,208.33 | $\color{green}+0.00\%$ | $\color{green}+56.21\%$ | 2026-04-19 18:13 UTC |
+| $156,208.33 | $\color{green}+0.00\%$ | $\color{green}+56.21\%$ | 2026-04-19 18:25 UTC |
+
+## Holdings
+
+| Holding | Weight |
+| --- | --- |
+| EWY | 24.57% |
+| LITE | 12.50% |
+| AMZN | 10.55% |
+| GOOGL | 10.23% |
+| GLW | 9.00% |
+| VRT | 7.22% |
+| WDC | 7.15% |
+| KEYS | 7.11% |
+| SNEX | 6.12% |
+| CIEN | 5.55% |
 <!-- TRACKER:END -->
 
 ## Overview

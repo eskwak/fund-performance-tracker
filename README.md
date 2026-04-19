@@ -1,5 +1,15 @@
 # Shared Fund Performance Tracker
 
+<!-- TRACKER:BEGIN -->
+## Performance
+
+| Portfolio Value | Since Rebalance | YTD | Since Inception |
+|---:|---:|---:|---:|
+| $101,679.27 | $\color{red}-0.01\%$ | $\color{green}+8.52\%$ | $\color{green}+8.52\%$ |
+
+*Last updated: 2026-04-19 01:05*
+<!-- TRACKER:END -->
+
 ## Overview
 
 We developed an investment engine that aims to beat the broader market using quantitative momentum strategies.
@@ -14,3 +24,4 @@ This tool tracks the fund's performance and updates holdings automatically as th
 ---
 
 > **Note:** We are still in the process of refactoring and isolating code from our engine to ensure that this tool can run autonomously.
+

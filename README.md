@@ -28,7 +28,7 @@
 ## Overview
 
 We developed an investment engine that aims to beat the broader market using quantitative momentum strategies.
-The engine manages an investment fund fund and allocates assets based on strong price momentum signals and rebalances the fund monthly.
+The engine manages an investment fund and allocates assets based on strong price momentum signals and rebalances the fund monthly.
 
 As a result, continuously running the engine outside of the fund's rebalance window solely to monitor performance is both time-consuming and resource-intensive.
 This tracker aims to provide daily updates on the fund's performance without the need to run the engine.

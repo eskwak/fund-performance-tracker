@@ -5,7 +5,7 @@
 
 | AUM | Since last rebalance | Since inception | Last updated |
 | --- | --- | --- | --- |
-| $101,893.39 | $\color{red}-0.01\%$ | $\color{green}+21.63\%$ | 2026-04-19 17:29 UTC |
+| $156,208.33 | $\color{green}+0.00\%$ | $\color{green}+56.21\%$ | 2026-04-19 18:13 UTC |
 <!-- TRACKER:END -->
 
 ## Overview

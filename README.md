@@ -3,11 +3,13 @@
 <!-- TRACKER:BEGIN -->
 ## Performance
 
-| Portfolio Value | Since Rebalance | YTD | Since Inception |
-|---:|---:|---:|---:|
-| $101,679.27 | $\color{red}-0.01\%$ | $\color{green}+8.19\%$ | $\color{green}+27.10\%$ |
+| Date | AUM | Quarterly Return | Cumulative Return |
+|:---|---:|---:|---:|
+| 2025-07-15 | $83,771.08 | — | — |
+| 2025-10-15 | $91,654.89 | $\color{green}+9.41\%$ | $\color{green}+9.41\%$ |
+| 2026-01-15 | $96,040.99 | $\color{green}+4.79\%$ | $\color{green}+14.65\%$ |
+| 2026-04-19 | $101,903.58 | $\color{green}+6.10\%$ | $\color{green}+21.65\%$ |
 
-*Last updated: 2026-04-19 02:29*
 <!-- TRACKER:END -->
 
 ## Overview

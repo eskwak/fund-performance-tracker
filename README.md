@@ -3,13 +3,7 @@
 <!-- TRACKER:BEGIN -->
 ## Performance
 
-| Date | AUM | Quarterly Return | Cumulative Return |
-|:---|---:|---:|---:|
-| 2025-07-15 | $83,771.08 | — | — |
-| 2025-10-15 | $91,654.89 | $\color{green}+9.41\%$ | $\color{green}+9.41\%$ |
-| 2026-01-15 | $96,040.99 | $\color{green}+4.79\%$ | $\color{green}+14.65\%$ |
-| 2026-04-15 | $101,903.58 | $\color{green}+6.10\%$ | $\color{green}+21.65\%$ |
-
+**AUM:** $101,893.39 &nbsp; · &nbsp; **Since last rebalance:** $\color{red}-0.01\%$ &nbsp; · &nbsp; **Since inception:** $\color{green}+21.63\%$
 <!-- TRACKER:END -->
 
 ## Overview

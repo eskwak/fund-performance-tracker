@@ -1,6 +1,6 @@
 # Investment Fund Performance Tracker
 
-**Inception Date: 2025-07-15**\
+**Inception Date: 2025-05-15**\
 **AUM At Inception: $100000.00**
 <!-- TRACKER:BEGIN -->
 ## Performance

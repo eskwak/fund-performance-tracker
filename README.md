@@ -7,24 +7,24 @@
 
 | AUM | Since last rebalance | YTD | Since inception | Last updated |
 | --- | --- | --- | --- | --- |
-| $156,223.95 | $\color{green}+0.01\%$ | $\color{green}+19.26\%$ | $\color{green}+56.22\%$ | 2026-04-20 18:39 UTC |
+| $156,578.29 | $\color{green}+0.24\%$ | $\color{green}+19.53\%$ | $\color{green}+56.58\%$ | 2026-04-20 18:47 UTC |
 
 ## Holdings
 
 | Holding | Weight |
 | --- | --- |
-| LASR | 18.49% |
-| WDC | 14.08% |
+| LASR | 18.59% |
+| WDC | 14.07% |
 | CIEN | 10.14% |
-| VSAT | 9.27% |
-| ARWR | 7.31% |
-| ORKA | 6.97% |
-| TER | 6.25% |
+| VSAT | 9.22% |
+| ARWR | 7.30% |
+| ORKA | 6.95% |
+| TER | 6.24% |
 | DNTH | 6.12% |
-| SPHR | 5.57% |
+| SPHR | 5.56% |
 | VISN | 5.46% |
 | TTMI | 5.39% |
-| VIAV | 4.96% |
+| VIAV | 4.95% |
 <!-- TRACKER:END -->
 
 ## Overview

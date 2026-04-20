@@ -5,25 +5,26 @@
 <!-- TRACKER:BEGIN -->
 ## Performance
 
-| AUM | Since last rebalance | Since inception | Last updated |
-| --- | --- | --- | --- |
-| $154,815.16 | $\color{red}-0.89\%$ | $\color{green}+54.82\%$ | 2026-04-20 15:15 UTC |
+| AUM | Since last rebalance | YTD | Since inception | Last updated |
+| --- | --- | --- | --- | --- |
+| $156,223.95 | $\color{green}+0.01\%$ | $\color{green}+19.26\%$ | $\color{green}+56.22\%$ | 2026-04-20 18:39 UTC |
 
 ## Holdings
 
 | Holding | Weight |
 | --- | --- |
-| VEA | 13.00% |
-| LITE | 12.41% |
-| EWY | 11.44% |
-| AMZN | 10.45% |
-| GOOGL | 10.19% |
-| GLW | 9.16% |
-| VRT | 7.33% |
-| KEYS | 7.18% |
-| WDC | 7.15% |
-| SNEX | 6.16% |
-| CIEN | 5.52% |
+| LASR | 18.49% |
+| WDC | 14.08% |
+| CIEN | 10.14% |
+| VSAT | 9.27% |
+| ARWR | 7.31% |
+| ORKA | 6.97% |
+| TER | 6.25% |
+| DNTH | 6.12% |
+| SPHR | 5.57% |
+| VISN | 5.46% |
+| TTMI | 5.39% |
+| VIAV | 4.96% |
 <!-- TRACKER:END -->
 
 ## Overview

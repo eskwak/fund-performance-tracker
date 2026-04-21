@@ -1,4 +1,5 @@
-# Investment Fund Performance Tracker
+# Investment Engine Performance Tracker
+**Version 1.2**
 
 <!-- TRACKER:BEGIN -->
 ## Performance
@@ -25,7 +26,7 @@
 
 ## Overview
 
-We developed an investment engine that aims to beat the broader market using quantitative momentum strategies.
+We developed an investment engine that aims to beat the broader market using various quantitative strategies.
 The engine manages an investment fund fund and allocates assets based on strong price momentum signals and rebalances the fund monthly.
 
 As a result, continuously running the engine outside of the fund's rebalance window solely to monitor performance is both time-consuming and resource-intensive.

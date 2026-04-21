@@ -1,5 +1,5 @@
 # Investment Engine Performance Tracker
-**Version 1.2**
+**Version 1.2**\
 **Inception Date: 2025-05-15**\
 **AUM At Inception: $100000.00**
 <!-- TRACKER:BEGIN -->

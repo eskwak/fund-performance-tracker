@@ -7,19 +7,19 @@
 
 | AUM | Since last rebalance | YTD | Since inception | Last updated |
 | --- | --- | --- | --- | --- |
-| $166,069.30 | $\color{green}+4.98\%$ | $\color{green}+26.78\%$ | $\color{green}+66.07\%$ | 2026-05-01 14:53 UTC |
+| $165,863.17 | $\color{green}+4.84\%$ | $\color{green}+26.62\%$ | $\color{green}+65.86\%$ | 2026-05-01 19:08 UTC |
 
 ## Holdings
 
 | Holding | Weight |
 | --- | --- |
-| AMZN | 29.19% |
+| AMZN | 29.15% |
 | GOOGL | 21.31% |
-| CAT | 10.19% |
-| WDC | 10.09% |
-| EWY | 10.03% |
-| WMT | 9.74% |
-| AVGO | 9.46% |
+| CAT | 10.24% |
+| WDC | 10.16% |
+| EWY | 9.98% |
+| WMT | 9.64% |
+| AVGO | 9.53% |
 <!-- TRACKER:END -->
 
 

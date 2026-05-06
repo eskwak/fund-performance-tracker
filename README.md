@@ -7,18 +7,18 @@
 
 | AUM | Since last rebalance | YTD | Since inception | Last updated |
 | --- | --- | --- | --- | --- |
-| $170,068.78 | $\color{green}+2.53\%$ | $\color{green}+29.83\%$ | $\color{green}+70.07\%$ | 2026-05-06 16:01 UTC |
+| $172,107.51 | $\color{green}+3.76\%$ | $\color{green}+31.39\%$ | $\color{green}+72.11\%$ | 2026-05-06 19:43 UTC |
 
 ## Holdings
 
 | Holding | Weight |
 | --- | --- |
-| CIEN | 30.06% |
-| WDC | 23.19% |
-| VIAV | 20.48% |
-| FIX | 9.40% |
-| AEIS | 8.75% |
-| MTZ | 8.12% |
+| CIEN | 30.01% |
+| WDC | 23.52% |
+| VIAV | 20.30% |
+| FIX | 9.29% |
+| AEIS | 8.93% |
+| MTZ | 7.94% |
 <!-- TRACKER:END -->
 
 

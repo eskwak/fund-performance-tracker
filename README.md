@@ -7,17 +7,17 @@
 
 | AUM | Since last rebalance | YTD | Since inception | Last updated |
 | --- | --- | --- | --- | --- |
-| $182,884.92 | $\color{green}+5.79\%$ | $\color{green}+39.61\%$ | $\color{green}+82.88\%$ | 2026-05-11 22:52 UTC |
+| $169,349.05 | $\color{red}-2.04\%$ | $\color{green}+29.28\%$ | $\color{green}+69.35\%$ | 2026-05-12 16:16 UTC |
 
 ## Holdings
 
 | Holding | Weight |
 | --- | --- |
-| SNDK | 47.73% |
-| CIEN | 20.97% |
-| WDC | 14.13% |
-| STX | 9.02% |
-| TER | 8.16% |
+| SNDK | 46.94% |
+| CIEN | 21.63% |
+| WDC | 14.09% |
+| STX | 9.09% |
+| TER | 8.25% |
 <!-- TRACKER:END -->
 
 

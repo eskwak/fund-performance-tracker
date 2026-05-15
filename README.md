@@ -7,32 +7,32 @@
 
 | AUM | Since last rebalance | YTD | Since inception | Last updated |
 | --- | --- | --- | --- | --- |
-| $174,171.88 | $\color{red}-0.72\%$ | $\color{green}+32.96\%$ | $\color{green}+74.17\%$ | 2026-05-14 22:54 UTC |
+| $168,436.11 | $\color{red}-3.99\%$ | $\color{green}+28.58\%$ | $\color{green}+68.44\%$ | 2026-05-15 16:02 UTC |
 
 ## Holdings
 
 | Holding | Weight |
 | --- | --- |
-| PL | 5.32% |
-| BE | 5.27% |
-| MRVL | 5.17% |
-| MTZ | 5.17% |
-| CIEN | 5.16% |
-| TTMI | 5.13% |
-| GLW | 5.08% |
-| COHR | 5.05% |
-| ONTO | 5.04% |
-| KEYS | 5.04% |
-| RVMD | 5.02% |
-| VIAV | 4.99% |
-| WDC | 4.99% |
-| FORM | 4.98% |
-| TER | 4.94% |
-| LITE | 4.90% |
-| AMKR | 4.87% |
-| SNDK | 4.81% |
-| AAOI | 4.60% |
-| LGN | 4.48% |
+| PL | 5.37% |
+| MRVL | 5.25% |
+| MTZ | 5.16% |
+| ONTO | 5.14% |
+| TTMI | 5.12% |
+| CIEN | 5.11% |
+| FORM | 5.09% |
+| KEYS | 5.06% |
+| WDC | 5.04% |
+| BE | 5.04% |
+| SNDK | 5.02% |
+| RVMD | 5.01% |
+| COHR | 5.00% |
+| VIAV | 4.97% |
+| AMKR | 4.95% |
+| GLW | 4.94% |
+| LITE | 4.93% |
+| TER | 4.92% |
+| AAOI | 4.46% |
+| LGN | 4.40% |
 <!-- TRACKER:END -->
 
 

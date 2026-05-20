@@ -7,7 +7,7 @@
 
 | AUM | Since last rebalance | YTD | Since inception | Last updated |
 | --- | --- | --- | --- | --- |
-| $163,467.69 | $\color{red}-6.82\%$ | $\color{green}+24.79\%$ | $\color{green}+63.47\%$ | 2026-05-20 20:11 UTC |
+| $163,469.14 | $\color{red}-6.82\%$ | $\color{green}+24.79\%$ | $\color{green}+63.47\%$ | 2026-05-20 23:09 UTC |
 
 ## Holdings
 
@@ -22,14 +22,14 @@
 | SNDK | 5.16% |
 | CIEN | 5.15% |
 | ONTO | 5.10% |
-| TER | 5.09% |
+| TER | 5.08% |
 | KEYS | 5.08% |
 | WDC | 4.99% |
 | AMKR | 4.93% |
 | MTZ | 4.86% |
 | VIAV | 4.81% |
 | COHR | 4.77% |
-| GLW | 4.69% |
+| GLW | 4.70% |
 | LITE | 4.52% |
 | LGN | 4.42% |
 | AAOI | 3.97% |

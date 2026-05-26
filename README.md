@@ -7,14 +7,14 @@
 
 | AUM | Since last rebalance | YTD | Since inception | Last updated |
 | --- | --- | --- | --- | --- |
-| $177,947.66 | $\color{green}+4.55\%$ | $\color{green}+35.85\%$ | $\color{green}+77.95\%$ | 2026-05-26 20:06 UTC |
+| $177,960.52 | $\color{green}+4.56\%$ | $\color{green}+35.86\%$ | $\color{green}+77.96\%$ | 2026-05-26 23:07 UTC |
 
 ## Holdings
 
 | Holding | Weight |
 | --- | --- |
 | VICR | 3.71% |
-| AEHR | 3.45% |
+| AEHR | 3.46% |
 | AMKR | 3.34% |
 | RMBS | 3.29% |
 | VSAT | 3.26% |
@@ -29,11 +29,11 @@
 | POWL | 3.13% |
 | LASR | 3.10% |
 | TTMI | 3.10% |
-| CIEN | 3.09% |
 | BW | 3.08% |
+| CIEN | 3.08% |
 | INTC | 3.08% |
-| AGX | 3.06% |
 | RVMD | 3.05% |
+| AGX | 3.05% |
 | SITM | 3.05% |
 | DOCN | 3.03% |
 | COHR | 3.02% |
@@ -41,9 +41,9 @@
 | PUMP | 2.97% |
 | SYRE | 2.97% |
 | VRT | 2.96% |
-| AAOI | 2.92% |
+| AAOI | 2.93% |
 | MXL | 2.90% |
-| LITE | 2.88% |
+| LITE | 2.87% |
 | AXTI | 2.81% |
 <!-- TRACKER:END -->
 

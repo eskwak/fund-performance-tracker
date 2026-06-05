@@ -7,44 +7,44 @@
 
 | AUM | Since last rebalance | YTD | Since inception | Last updated |
 | --- | --- | --- | --- | --- |
-| $177,817.77 | $\color{green}+4.47\%$ | $\color{green}+35.75\%$ | $\color{green}+77.82\%$ | 2026-06-04 23:06 UTC |
+| $163,858.14 | $\color{red}-3.73\%$ | $\color{green}+25.09\%$ | $\color{green}+63.86\%$ | 2026-06-05 16:28 UTC |
 
 ## Holdings
 
 | Holding | Weight |
 | --- | --- |
-| AEHR | 3.67% |
-| HUT | 3.61% |
-| SNDK | 3.56% |
-| WDC | 3.55% |
-| RMBS | 3.54% |
-| VICR | 3.42% |
-| DOCN | 3.41% |
-| AMKR | 3.36% |
-| AMD | 3.35% |
-| AAOI | 3.34% |
-| COHR | 3.34% |
-| VIAV | 3.21% |
-| POWL | 3.21% |
-| SYRE | 3.17% |
-| AGX | 3.14% |
-| NVTS | 3.14% |
-| ICHR | 3.08% |
-| RVMD | 3.07% |
-| LITE | 2.99% |
-| VRT | 2.96% |
-| PL | 2.94% |
-| BW | 2.93% |
-| VSAT | 2.93% |
-| TTMI | 2.91% |
-| PUMP | 2.91% |
-| SITM | 2.90% |
-| BE | 2.88% |
-| LASR | 2.85% |
-| MXL | 2.84% |
+| AGX | 3.61% |
+| WDC | 3.57% |
+| SNDK | 3.55% |
+| AEHR | 3.54% |
+| HUT | 3.52% |
+| DOCN | 3.44% |
+| COHR | 3.44% |
+| RMBS | 3.41% |
+| POWL | 3.39% |
+| AAOI | 3.39% |
+| VICR | 3.38% |
+| SYRE | 3.33% |
+| AMKR | 3.32% |
+| AMD | 3.32% |
+| RVMD | 3.25% |
+| VIAV | 3.19% |
+| ICHR | 3.10% |
+| LITE | 3.10% |
+| VRT | 3.04% |
+| TTMI | 2.96% |
+| VSAT | 2.94% |
+| PUMP | 2.92% |
+| BW | 2.86% |
+| SITM | 2.86% |
+| NVTS | 2.86% |
+| BE | 2.86% |
+| LASR | 2.86% |
+| CIEN | 2.83% |
 | INTC | 2.79% |
-| CIEN | 2.74% |
-| AXTI | 2.25% |
+| MXL | 2.73% |
+| PL | 2.43% |
+| AXTI | 2.20% |
 <!-- TRACKER:END -->
 
 

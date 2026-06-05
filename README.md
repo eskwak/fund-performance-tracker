@@ -7,44 +7,44 @@
 
 | AUM | Since last rebalance | YTD | Since inception | Last updated |
 | --- | --- | --- | --- | --- |
-| $159,824.10 | $\color{red}-6.10\%$ | $\color{green}+22.01\%$ | $\color{green}+59.82\%$ | 2026-06-05 19:50 UTC |
+| $158,522.44 | $\color{red}-6.86\%$ | $\color{green}+21.02\%$ | $\color{green}+58.52\%$ | 2026-06-05 23:05 UTC |
 
 ## Holdings
 
 | Holding | Weight |
 | --- | --- |
-| AGX | 3.56% |
-| SNDK | 3.55% |
+| DOCN | 3.60% |
+| HUT | 3.56% |
+| AGX | 3.55% |
 | WDC | 3.55% |
-| DOCN | 3.54% |
-| HUT | 3.53% |
-| AEHR | 3.51% |
-| RMBS | 3.44% |
-| POWL | 3.41% |
+| SNDK | 3.54% |
+| AEHR | 3.48% |
+| POWL | 3.42% |
+| RMBS | 3.41% |
 | VICR | 3.39% |
-| AMD | 3.38% |
-| COHR | 3.36% |
-| AMKR | 3.33% |
-| AAOI | 3.30% |
-| SYRE | 3.29% |
-| RVMD | 3.27% |
-| VIAV | 3.18% |
-| ICHR | 3.09% |
-| VRT | 3.07% |
+| COHR | 3.35% |
+| AMD | 3.35% |
+| SYRE | 3.34% |
+| AMKR | 3.31% |
+| RVMD | 3.30% |
+| AAOI | 3.27% |
+| VIAV | 3.22% |
+| VRT | 3.08% |
+| ICHR | 3.06% |
 | LITE | 3.06% |
-| VSAT | 2.99% |
+| VSAT | 3.02% |
 | TTMI | 2.96% |
-| SITM | 2.93% |
-| BE | 2.90% |
-| PUMP | 2.89% |
-| NVTS | 2.89% |
-| BW | 2.86% |
-| LASR | 2.82% |
+| BE | 2.92% |
+| PUMP | 2.92% |
+| BW | 2.88% |
+| SITM | 2.88% |
+| NVTS | 2.88% |
+| LASR | 2.81% |
 | CIEN | 2.81% |
-| INTC | 2.79% |
+| INTC | 2.78% |
 | MXL | 2.74% |
-| PL | 2.45% |
-| AXTI | 2.14% |
+| PL | 2.44% |
+| AXTI | 2.12% |
 <!-- TRACKER:END -->
 
 

@@ -7,7 +7,7 @@
 
 | AUM | Since last rebalance | YTD | Since inception | Last updated |
 | --- | --- | --- | --- | --- |
-| $156,734.76 | $\color{red}-7.91\%$ | $\color{green}+19.65\%$ | $\color{green}+56.73\%$ | 2026-06-09 20:04 UTC |
+| $156,742.05 | $\color{red}-7.91\%$ | $\color{green}+19.66\%$ | $\color{green}+56.74\%$ | 2026-06-09 23:16 UTC |
 
 ## Holdings
 
@@ -17,7 +17,7 @@
 | AMKR | 3.66% |
 | WDC | 3.63% |
 | HUT | 3.61% |
-| DOCN | 3.61% |
+| DOCN | 3.60% |
 | VICR | 3.59% |
 | ICHR | 3.52% |
 | SYRE | 3.50% |
@@ -34,7 +34,7 @@
 | INTC | 3.06% |
 | AAOI | 3.05% |
 | VRT | 3.00% |
-| LITE | 2.95% |
+| LITE | 2.94% |
 | PUMP | 2.94% |
 | BE | 2.91% |
 | VSAT | 2.91% |

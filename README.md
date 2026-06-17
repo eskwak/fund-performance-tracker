@@ -7,7 +7,7 @@
 
 | AUM | Since last rebalance | YTD | Since inception | Last updated |
 | --- | --- | --- | --- | --- |
-| $171,683.30 | $\color{green}+0.87\%$ | $\color{green}+31.06\%$ | $\color{green}+71.68\%$ | 2026-06-17 20:08 UTC |
+| $171,688.98 | $\color{green}+0.87\%$ | $\color{green}+31.07\%$ | $\color{green}+71.69\%$ | 2026-06-17 23:21 UTC |
 
 ## Holdings
 
@@ -21,16 +21,16 @@
 | AEHR | 3.67% |
 | SYRE | 3.66% |
 | HUT | 3.48% |
-| DOCN | 3.47% |
+| DOCN | 3.48% |
 | AGX | 3.40% |
 | AMD | 3.40% |
 | TTMI | 3.31% |
 | POWL | 3.26% |
-| RVMD | 3.23% |
+| RVMD | 3.22% |
 | INTC | 3.13% |
 | COHR | 3.11% |
 | VIAV | 3.05% |
-| VRT | 3.01% |
+| VRT | 3.00% |
 | BE | 2.92% |
 | SITM | 2.88% |
 | AAOI | 2.86% |

@@ -7,50 +7,50 @@
 
 | AUM | Since last rebalance | YTD | Since inception | Last updated |
 | --- | --- | --- | --- | --- |
-| $169,315.34 | $\color{green}+2.79\%$ | $\color{green}+29.26\%$ | $\color{green}+69.32\%$ | 2026-06-29 19:52 UTC |
+| $170,040.18 | $\color{green}+3.23\%$ | $\color{green}+29.81\%$ | $\color{green}+70.04\%$ | 2026-06-29 22:54 UTC |
 
 ## Holdings
 
 | Holding | Weight |
 | --- | --- |
 | ACMR | 2.90% |
-| VICR | 2.89% |
-| ICHR | 2.84% |
-| WDC | 2.84% |
-| MXL | 2.82% |
+| MXL | 2.86% |
+| VICR | 2.86% |
+| ICHR | 2.86% |
+| WDC | 2.83% |
 | UCTT | 2.80% |
-| LRCX | 2.77% |
-| PENG | 2.77% |
-| MKSI | 2.74% |
+| PENG | 2.78% |
+| LRCX | 2.76% |
+| MKSI | 2.73% |
 | RLAY | 2.71% |
+| COHU | 2.71% |
 | RVMD | 2.70% |
-| COHU | 2.70% |
 | MYRG | 2.67% |
-| SMTC | 2.65% |
-| DELL | 2.64% |
+| SMTC | 2.66% |
+| MRVL | 2.65% |
+| DELL | 2.65% |
 | AMD | 2.64% |
-| MRVL | 2.63% |
-| SYRE | 2.63% |
-| INTC | 2.61% |
-| MTRN | 2.59% |
-| GFS | 2.58% |
-| ACLS | 2.58% |
+| INTC | 2.62% |
+| SYRE | 2.62% |
+| ACLS | 2.59% |
+| GFS | 2.59% |
+| MU | 2.58% |
 | STRL | 2.58% |
-| XMTR | 2.57% |
-| WULF | 2.57% |
-| BTSG | 2.56% |
+| MTRN | 2.57% |
 | BTSGU | 2.56% |
-| MU | 2.55% |
-| ARCB | 2.55% |
-| VSH | 2.54% |
-| TWST | 2.52% |
-| RIOT | 2.50% |
-| VECO | 2.49% |
+| BTSG | 2.55% |
+| VSH | 2.55% |
+| XMTR | 2.55% |
+| ARCB | 2.54% |
+| WULF | 2.52% |
+| TWST | 2.51% |
+| SNDK | 2.50% |
+| VECO | 2.50% |
 | TTMI | 2.49% |
-| CIFR | 2.47% |
-| HUT | 2.47% |
-| SNDK | 2.46% |
-| LQDA | 2.42% |
+| RIOT | 2.48% |
+| HUT | 2.45% |
+| LQDA | 2.45% |
+| CIFR | 2.44% |
 <!-- TRACKER:END -->
 
 

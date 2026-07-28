@@ -7,20 +7,20 @@
 
 | AUM | Since last rebalance | YTD | Since inception | Last updated |
 | --- | --- | --- | --- | --- |
-| $158,280.00 | $\color{red}-0.90\%$ | $\color{green}+20.83\%$ | $\color{green}+58.28\%$ | 2026-07-28 16:03 UTC |
+| $157,910.77 | $\color{red}-1.14\%$ | $\color{green}+20.55\%$ | $\color{green}+57.91\%$ | 2026-07-28 19:18 UTC |
 
 ## Holdings
 
 | Holding | Weight |
 | --- | --- |
 | VXUS | 25.08% |
-| AAPL | 15.43% |
-| MU | 14.71% |
-| JPM | 10.46% |
-| SCHD | 10.36% |
-| XLC | 9.83% |
-| AMZN | 9.34% |
-| RKLB | 4.79% |
+| AAPL | 15.45% |
+| MU | 14.66% |
+| JPM | 10.52% |
+| SCHD | 10.37% |
+| XLC | 9.84% |
+| AMZN | 9.36% |
+| RKLB | 4.72% |
 <!-- TRACKER:END -->
 
 

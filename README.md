@@ -7,32 +7,32 @@
 
 | AUM | Since last rebalance | YTD | Since inception | Last updated |
 | --- | --- | --- | --- | --- |
-| $166,239.67 | $\color{green}+0.27\%$ | $\color{green}+26.91\%$ | $\color{green}+66.24\%$ | 2026-09-09 17:30 UTC |
+| $165,935.23 | $\color{green}+0.08\%$ | $\color{green}+26.68\%$ | $\color{green}+65.94\%$ | 2026-09-09 20:21 UTC |
 
 ## Holdings
 
 | Holding | Weight |
 | --- | --- |
-| GH | 5.10% |
-| CLMT | 5.07% |
-| INSW | 5.05% |
-| NESR | 5.05% |
-| DELL | 5.05% |
-| NUE | 5.04% |
+| CLMT | 5.16% |
+| MATX | 5.08% |
+| VLO | 5.08% |
+| NESR | 5.07% |
+| GH | 5.05% |
+| CON | 5.04% |
+| INSW | 5.03% |
 | DAR | 5.03% |
-| CON | 5.03% |
-| STT | 5.02% |
-| ATI | 5.02% |
-| VLO | 5.02% |
-| CDNA | 5.01% |
-| PAGP | 5.01% |
-| PAA | 4.98% |
-| MATX | 4.98% |
-| TRGP | 4.96% |
-| WSFS | 4.94% |
+| NUE | 5.03% |
+| DELL | 5.01% |
+| STT | 5.00% |
+| WSFS | 4.99% |
+| PAGP | 4.98% |
+| ATI | 4.98% |
+| PAA | 4.97% |
+| CDNA | 4.97% |
+| TRGP | 4.95% |
 | ECPG | 4.92% |
-| GKOS | 4.89% |
-| CAKE | 4.81% |
+| GKOS | 4.85% |
+| CAKE | 4.83% |
 <!-- TRACKER:END -->
 
 

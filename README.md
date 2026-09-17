@@ -7,7 +7,7 @@
 
 | AUM | Since last rebalance | YTD | Since inception | Last updated |
 | --- | --- | --- | --- | --- |
-| $166,091.43 | $\color{green}+0.18\%$ | $\color{green}+26.79\%$ | $\color{green}+66.09\%$ | 2026-09-16 20:56 UTC |
+| $166,091.43 | $\color{green}+0.18\%$ | $\color{green}+26.79\%$ | $\color{green}+66.09\%$ | 2026-09-17 00:03 UTC |
 
 ## Holdings
 
